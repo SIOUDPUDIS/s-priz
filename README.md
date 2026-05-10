@@ -1,1 +1,1 @@
-# s-priz
+# supriz
